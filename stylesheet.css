@@ -1,0 +1,29 @@
+
+/* h1 {
+    background-color:rgb(8, 65, 139);
+    color:rgb(253, 253, 253);
+    font-family:verdana;
+    text-align:center;
+    margin-top: 15px;
+    }
+h2 {
+    font-family:verdana;
+    text-align:center;
+    margin-top: 15px;
+    } */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.headerstyle{
+    color: white;
+    background-color: rgb(10, 10, 78);
+    font-family:verdana;
+    text-align: center;
+}
+#titlefix{
+    font-size: 40px
+}
